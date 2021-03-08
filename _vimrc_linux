@@ -15,6 +15,7 @@ Plugin 'luochen1990/rainbow'
 Plugin 'Yggdroot/indentLine'
 Plugin 'godlygeek/tabular'
 Plugin 'tomasr/molokai'
+Plugin 'tpope/vim-fugitive'
 Plugin 'majutsushi/tagbar'
 " All of your Plugins must be added before the following line
 call vundle#end()            " required
